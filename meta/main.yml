@@ -11,7 +11,7 @@ galaxy_info:
       versions:
         - xenial
 
-  galaxy_tags: []
+  galaxy_tags:
     - system
     - IPMI
 
